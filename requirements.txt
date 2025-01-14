@@ -1,0 +1,11 @@
+aiohttp>=3.8.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+SpeechRecognition>=3.8.1
+sounddevice>=0.4.5
+soundfile>=0.10.3
+python-dotenv>=0.19.0
+picamera2; platform_system=="Linux"
+
+
+
