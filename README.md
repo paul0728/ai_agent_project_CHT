@@ -61,7 +61,10 @@ pip install -r requirements.txt
 
 4. 配置環境變數：
    - 複製 `.env.example` 為 `.env`
-   - 編輯 `.env` 文件，設置您的 DEEPSEEK_API_KEY
+   - 編輯 `.env` 文件，
+     - DEEPSEEK_API_KEY 設置 (必須)
+     - 相機設置（可選）
+     - 音頻設置（可選）
 
 5. 運行程式：
 ```bash
