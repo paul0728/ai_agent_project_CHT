@@ -44,7 +44,7 @@
 
 1. 克隆專案：
 ```bash
-git clone [https://github.com/paul0728/ai_agent_project_CHT.git]
+git clone https://github.com/paul0728/ai_agent_project_CHT.git
 cd ai_agent_project_CHT
 ```
 
@@ -92,7 +92,7 @@ sudo apt-get install -y \
 
 3. 克隆並設置專案：
 ```bash
-git clone [https://github.com/paul0728/ai_agent_project_CHT.git]
+git clone https://github.com/paul0728/ai_agent_project_CHT.git
 cd ai_agent_project_CHT
 python3 -m venv venv
 source venv/bin/activate
